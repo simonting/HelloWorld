@@ -1,2 +1,5 @@
 #Ignore all build dir
 build/
+
+#Ignore all swp files
+*.swp
